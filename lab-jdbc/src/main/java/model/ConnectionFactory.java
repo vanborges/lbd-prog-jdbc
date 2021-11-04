@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 public class ConnectionFactory {
     
-    private static final String URL="jdbc:postgresql://localhost:5432/pydb";
+    private static final String URL="jdbc:postgresql://localhost:5432/pybd";
     private static final String USER="postgres";
     private static final String PASS="postgres";
 
